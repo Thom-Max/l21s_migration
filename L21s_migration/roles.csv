@@ -4,4 +4,4 @@ user_id,role
 1000,delete
 2000,read
 3000,read
-3000,delete
+4000,write
