@@ -6,3 +6,17 @@ user_id,role
 2000,write
 3000,read
 4000,write
+6731,read
+6731,write
+6731,delete
+9814,read
+9814,write
+9814,delete
+2467,read
+2467,write
+2467,delete
+5672,read
+5672,write
+5672,delete
+8249,read
+8249,write
