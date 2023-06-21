@@ -3,5 +3,6 @@ user_id,role
 1000,write
 1000,delete
 2000,read
+2000,write
 3000,read
 4000,write
